@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Google Lens Shortcut</string>
+
+    <!-- Main Activity -->
+    <string name="floating_button_switch">Плавающая кнопка Google Lens</string>
+    <string name="autostart_switch">Автозапуск после перезагрузки</string>
+    <string name="permissions_button">Разрешения</string>
+    <string name="vivo_help_button">Помощь Vivo</string>
+    <string name="test_lens_button">Проверить запуск Google Lens</string>
+
+    <!-- Status messages -->
+    <string name="service_running">🟢 Работает</string>
+    <string name="service_stopped">🔴 Остановлен</string>
+    <string name="permission_granted">✓ Разрешено</string>
+    <string name="permission_required">✗ Требуется</string>
+    <string name="battery_optimized">✗ Включена</string>
+    <string name="battery_not_optimized">✓ Отключена</string>
+
+    <!-- Permissions -->
+    <string name="overlay_permission_title">Разрешение на отображение поверх других приложений</string>
+    <string name="overlay_permission_message">Для работы плавающей кнопки Google Lens нужно разрешение на отображение поверх других приложений.\n\nНа устройствах Vivo может потребоваться дополнительная настройка.</string>
+    <string name="grant_permission">Предоставить</string>
+    <string name="cancel">Отмена</string>
+    <string name="settings">Настройки</string>
+    <string name="understand">Понятно</string>
+
+    <!-- Vivo specific help -->
+    <string name="vivo_permission_help_title">Настройка разрешений на Vivo</string>
+    <string name="vivo_permission_help_message">На устройствах Vivo с OriginOS может потребоваться дополнительная настройка:\n\n1. Откройте Настройки → Приложения → Специальные разрешения\n2. Найдите \'Отображение поверх других приложений\'\n3. Включите для \'Google Lens Shortcut\'\n\nТакже проверьте настройки автозапуска.</string>
+
+    <string name="vivo_specific_help_title">Настройка для Vivo/OriginOS</string>
+    <string name="vivo_specific_help_message">Для стабильной работы на Vivo устройствах:\n\n1. 🔋 Автозапуск: Настройки → Приложения → Автозапуск → Включите для этого приложения\n\n2. 🔒 Блокировка в фоне: Настройки → Батарея → Управление в фоне → Разрешите работу в фоне\n\n3. 👆 Отображение поверх: Настройки → Приложения → Специальные разрешения → Отображение поверх других приложений\n\n4. 🔔 Уведомления: Не отключайте уведомления от этого приложения</string>
+
+    <string name="vivo_autostart_help_title">Автозапуск на Vivo</string>
+    <string name="vivo_autostart_help_message">Для включения автозапуска на Vivo:\n\n1. Откройте Настройки\n2. Найдите \'Приложения\' или \'Диспетчер приложений\'\n3. Найдите \'Автозапуск\' или \'Autostart\'\n4. Включите автозапуск для \'Google Lens Shortcut\'\n\nБез этой настройки приложение не будет запускаться автоматически после перезагрузки.</string>
+
+    <!-- Permissions dialog -->
+    <string name="permissions_dialog_title">Управление разрешениями</string>
+    <string name="permission_overlay">Отображение поверх приложений</string>
+    <string name="permission_battery">Оптимизация батареи</string>
+    <string name="permission_autostart_vivo">Автозапуск (Vivo)</string>
+    <string name="permission_app_settings">Настройки приложения</string>
+
+    <!-- Messages -->
+    <string name="permission_obtained">Разрешение получено! Теперь можно включить кнопку</string>
+    <string name="no_overlay_permission">Нет разрешения на отображение поверх других приложений</string>
+    <string name="lens_launching">Запускаем Google Lens...</string>
+    <string name="lens_not_found">Google Lens не найден. Установите Google App или Google Lens</string>
+    <string name="lens_error">Ошибка запуска Google Lens</string>
+    <string name="floating_button_error">Ошибка создания плавающей кнопки</string>
+
+    <!-- Notification -->
+    <string name="notification_title">Google Lens Shortcut активен</string>
+    <string name="notification_text">Нажмите на плавающую кнопку для запуска Google Lens</string>
+    <string name="notification_channel_name">Google Lens Shortcut</string>
+    <string name="notification_channel_description">Уведомление для работы плавающей кнопки Google Lens</string>
+
+    <!-- Device info -->
+    <string name="device_info_text">ℹ️ Приложение оптимизировано для Vivo X200 Pro mini с OriginOS 5 и Android 15</string>
+
+    <!-- Floating button -->
+    <string name="floating_button_description">Google Lens Shortcut</string>
+
+    <!-- Service restart -->
+    <string name="service_restart_android15">Перезапуск сервиса (ограничение Android 15)</string>
+</resources>

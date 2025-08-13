@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- 
+      Включаем в бэкап все, что находится в shared preferences,
+      кроме файла настроек нашего приложения, так как он специфичен для устройства.
+    -->
+    <include domain="sharedpref" path="."/>
+    <exclude domain="sharedpref" path="settings.xml"/>
+</full-backup-content>

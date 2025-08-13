@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основные цвета для темной и светлой темы -->
+    <color name="md_theme_primary">#76D1FF</color>
+    <color name="md_theme_onPrimary">#003548</color>
+    <color name="md_theme_secondary">#B5C9D7</color>
+    <color name="md_theme_onSecondary">#1F333D</color>
+    <color name="md_theme_surface">#191C1E</color>
+    <color name="md_theme_onSurface">#E1E3E5</color>
+    
+    <!-- AMOLED Black -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

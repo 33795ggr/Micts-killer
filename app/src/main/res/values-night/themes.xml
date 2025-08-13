@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Базовая тема приложения (AMOLED-ночная) -->
+    <style name="Theme.GoogleLensShortcut" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- Основные цвета -->
+        <item name="colorPrimary">@color/md_theme_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_onPrimary</item>
+        <item name="colorSecondary">@color/md_theme_secondary</item>
+        <item name="colorOnSecondary">@color/md_theme_onSecondary</item>
+
+        <!-- ЦВЕТ ФОНА - НАСТОЯЩИЙ ЧЕРНЫЙ -->
+        <item name="android:windowBackground">@color/black</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="colorOnSurface">@color/md_theme_onSurface</item>
+
+        <!-- Цвет строки состояния -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
