@@ -1,4 +1,4 @@
-⚙️ Единоразовая настройка
+Единоразовая настройка
 Эту настройку нужно выполнить только один раз. Пожалуйста, следуйте шагам внимательно.
 Выдача разрешения на захват экрана
 Откройте приложение в первый раз.
@@ -13,7 +13,7 @@
 Нажмите на иконку "Изменить" (обычно она выглядит как карандаш).
 Найдите плитку Google Lens Shortcut в списке доступных ярлыков.
 Перетащите ее в активную зону вашей панели.
-✨ Как использовать
+Как использовать
 Когда вы увидите на экране что-то, что хотите найти, просто откройте панель быстрых действий.
 Нажмите на добавленный ярлык вашего приложения.
 В самый первый раз система может спросить, разрешаете ли вы приложению открывать Google Lens. Выберите "Всегда".
@@ -21,9 +21,9 @@
 Возможности
 Регулируемая скорость срабатывания: В настройках приложения можно установить задержку (в миллисекундах) перед созданием скриншота. Это может помочь улучшить качество захвата изображения на некоторых устройствах.
 
-🚀 How to Set Up and Use
+How to Set Up and Use
 This guide will help you configure the application for instant one-tap screen search with Google Lens.
-⚙️ One-Time Setup
+One-Time Setup
 You only need to do this once. Follow these steps carefully.
 Grant Screen Capture Permission
 Open the app for the first time.
@@ -38,7 +38,7 @@ Pull down the notification shade completely to open the Quick Settings panel.
 Tap the "Edit" icon (it usually looks like a pencil).
 Find the tile for Google Lens Shortcut in the list of available tiles.
 Drag and drop it into your active tiles area.
-✨ How to Use
+How to Use
 Whenever you see something on your screen you want to search for, simply open your Quick Settings panel.
 Tap your newly added app tile.
 The very first time, your phone may ask if you want to let the app open Google Lens. Choose "Always".
