@@ -1,3 +1,4 @@
+Перед установкой обязательно необходимо скачать приложение Google Lens от Google.
 Единоразовая настройка
 Эту настройку нужно выполнить только один раз. Пожалуйста, следуйте шагам внимательно.
 Выдача разрешения на захват экрана
@@ -21,6 +22,7 @@
 Возможности
 Регулируемая скорость срабатывания: В настройках приложения можно установить задержку (в миллисекундах) перед созданием скриншота. Это может помочь улучшить качество захвата изображения на некоторых устройствах.
 
+Before installation, it is necessary to download the Google Lens application from Google.
 How to Set Up and Use
 This guide will help you configure the application for instant one-tap screen search with Google Lens.
 One-Time Setup
